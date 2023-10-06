@@ -12,8 +12,8 @@ build_libs()
 
 
 setup(
-    name='jetbot',
-    version='0.4.3',
+    name='rockbot',
+    version='0.0.1',
     description='An open-source robot based on NVIDIA Jetson Nano',
     packages=find_packages(),
     install_requires=[
